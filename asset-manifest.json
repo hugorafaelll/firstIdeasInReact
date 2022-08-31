@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hugorafaelll.github.io/csb-mxg0i3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/main.f5f5a335.chunk.js",
+    "main.js.map": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/main.f5f5a335.chunk.js.map",
+    "runtime-main.js": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/runtime-main.5c2228a2.js",
+    "runtime-main.js.map": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/runtime-main.5c2228a2.js.map",
+    "static/js/2.ff7f228b.chunk.js": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/2.ff7f228b.chunk.js",
+    "static/js/2.ff7f228b.chunk.js.map": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/2.ff7f228b.chunk.js.map",
+    "index.html": "https://hugorafaelll.github.io/csb-mxg0i3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hugorafaelll.github.io/csb-mxg0i3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ff7f228b.chunk.js.LICENSE.txt": "https://hugorafaelll.github.io/csb-mxg0i3/static/js/2.ff7f228b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2228a2.js",
+    "static/js/2.ff7f228b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f5f5a335.chunk.js"
+  ]
+}
